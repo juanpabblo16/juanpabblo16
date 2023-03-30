@@ -28,8 +28,9 @@
 </div>
 
 ---
+### Languajes and Tools
 
-<h3>###Languajes and Tools:
+<h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40">
         <img src="https://d2vqpl3tx84ay5.cloudfront.net/500x/tumblr_lsus01g1ik1qies3uo1_400.png" title="JavaS" alt="JavaS" width="30" height="30">
