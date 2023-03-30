@@ -17,6 +17,7 @@
  - I regulary post some stuff on my insta [@jp.ac15](https://www.instagram.com/jp.ac15/)
  - 🌱 I’m currently learning 
  - 📫 How to reach me: juanpabblo789@gmail.com
+ - My Linkedin: https://www.linkedin.com/in/juan-pablo-acevedo-mira-62b019190/
 
 ---
 
