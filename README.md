@@ -38,7 +38,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" title="Css" alt="Css" width="30" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" title="python" alt="python" width="30" height="30">
         <img src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" title="Scala" alt="Scala" width="50" height="40">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" title="NodeJs" alt="NodeJs" width="40" height="40">
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" title="NodeJs" alt="NodeJs" width="35" height="40">
     </div>
 
 </h3>
