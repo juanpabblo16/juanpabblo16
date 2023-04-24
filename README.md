@@ -49,7 +49,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanpabblo16&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
