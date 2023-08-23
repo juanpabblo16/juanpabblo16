@@ -39,6 +39,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" title="python" alt="python" width="30" height="30">
         <img src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" title="Scala" alt="Scala" width="50" height="40">
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" title="NodeJs" alt="NodeJs" width="35" height="40">
+        <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" title="Sql" alt="Sql" width="35" height="40">
+
     </div>
 
 </h3>
