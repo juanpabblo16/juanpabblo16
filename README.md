@@ -24,6 +24,7 @@
 <div id ="badges" align ="center">
     <a href="https://twitter.com/juanpabblo18" align ="center">
         <img src="https://img.shields.io/twitter/follow/juanpabblo18?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge">
+        [![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)](https://github.com/juanpabblo16?tab=repositories)
     </a>
 </div>
 
@@ -41,8 +42,6 @@
 ### My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=juanpabblo16&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/juanpabblo16?tab=repositories)
-
-[![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)](https://github.com/juanpabblo16?tab=repositories)
 
 [![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&langs_count=8)](https://github.com/juanpabblo16?tab=repositories)
 
