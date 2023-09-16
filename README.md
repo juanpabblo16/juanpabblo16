@@ -50,7 +50,7 @@
 
 ### Trends:
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/langs)]
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)]
 
 
 ---
