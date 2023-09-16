@@ -30,8 +30,9 @@
 
 <div id ="badges" align ="center">
 
-![](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS&style=for-the-badge)
-    
+[![](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS&style=for-the-badge)
+](https://github.com/juanpabblo16)    
+
 </div>
 
 
@@ -69,8 +70,8 @@
 
 <div id ="badges" align ="center">
     
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+](https://github.com/juanpabblo16)
 </div>
 
 
