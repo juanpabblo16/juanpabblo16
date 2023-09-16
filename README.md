@@ -29,7 +29,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div aling ="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=dark"
