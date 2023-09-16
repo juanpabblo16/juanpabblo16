@@ -40,6 +40,8 @@
 
 ### My stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=juanpabblo16&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/juanpabblo16?tab=repositories)
+
 [![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)
 ](https://github.com/juanpabblo16?tab=repositories)
 
