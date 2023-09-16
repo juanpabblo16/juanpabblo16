@@ -31,15 +31,7 @@
 ### Languajes and Tools
 
 <h3>
-    <div>
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40">
-        <img src="https://d2vqpl3tx84ay5.cloudfront.net/500x/tumblr_lsus01g1ik1qies3uo1_400.png" title="JavaS" alt="JavaS" width="30" height="30">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTM" width="40" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png" title="Css" alt="Css" width="30" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" title="python" alt="python" width="30" height="30">
-        <img src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" title="Scala" alt="Scala" width="50" height="40">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" title="NodeJs" alt="NodeJs" width="35" height="40">
-    </div>
+    [![My Skills](https://skillicons.dev/icons?i=java,node,springboot,scala,react,js,html,css)](https://skillicons.dev)
 
 </h3>
 
@@ -51,6 +43,5 @@
 
 [![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Juan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juanpabblo16)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
