@@ -24,6 +24,7 @@
 <div id ="badges" align ="center">
     <a href="https://twitter.com/juanpabblo18" align ="center">
         <img src="https://img.shields.io/twitter/follow/juanpabblo18?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge">
+        <a href="https://komarev.com/ghpvc/?username=juanpabblo16" align ="center">
     </a>
 </div>
 
