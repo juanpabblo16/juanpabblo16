@@ -30,7 +30,7 @@
 ---
 ### Languajes and Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,scala,react,js,html,css)]
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,scala,react,js,html,css)
 
 ---
 
