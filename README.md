@@ -27,10 +27,8 @@
     </a>
 </div>
 
-<p align="center">
 <img src="![](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS)">
     
-</p>
 
 ---
 
