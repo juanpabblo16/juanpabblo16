@@ -59,7 +59,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=juanpabblo16&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/juanpabblo16?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&layout=donut-vertical&theme=discord_old_burple)](https://github.com/juanpabblo16?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&layout=donut-vertical&theme=dark)](https://github.com/juanpabblo16?tab=repositories)
 
 ---
 
