@@ -40,9 +40,10 @@
 
 ### My stats:
 
-![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)
+[![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)
+](https://github.com/juanpabblo16?tab=repositories)
 
-[![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan´s Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabblo16&langs_count=8)](https://github.com/juanpabblo16?tab=repositories)
 
 
 ---
