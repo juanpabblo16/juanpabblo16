@@ -29,8 +29,8 @@
 
 ---
 
-<div aling ="center">
-  <picture>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture style="display: block;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -39,9 +39,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true" style="display: block;" />
   </picture>
 </div>
+
 
 ---
 ### Languajes and Frameworks
