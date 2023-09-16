@@ -27,8 +27,12 @@
     </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS)
+<div id ="badges" align ="center">
+
+[](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS)
     
+</div>
+
 
 ---
 
