@@ -60,8 +60,8 @@
 
 <p align="center">
     
-<img scr="https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark">
-    
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/langs)](https://github.com/juanpabblo16)
+
 </p>
 
 
