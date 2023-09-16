@@ -28,7 +28,7 @@
 </div>
 
 ---
-### Languajes
+### Languajes and Frameworks
 
 ![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,spring,gradle,maven,mysql,postman,scala,react,js,html,css,materialui,nextjs)
 
