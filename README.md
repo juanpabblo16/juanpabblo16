@@ -6,8 +6,8 @@
 ---
 
 <div id="Typer" align ="center">
-    <a href="https://git.io/typing-svg"><img src="https://github.com/juanpabblo16?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Studying+systems+engineering..." alt="Typing SVG" /></a>
-    <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://github.com/juanpabblo16?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=at+ICESI+university;8th+semester" alt="Typing SVG" /></a></h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Studying+systems+engineering..." alt="Typing SVG" /></a>
+    <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=at+ICESI+university;8th+semester" alt="Typing SVG" /></a></h2>
 </div>
 
 ---
