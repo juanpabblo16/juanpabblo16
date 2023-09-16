@@ -29,45 +29,20 @@
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .content {
-            text-align: center;
-        }
-        .card {
-            display: block;
-            width: card_width;
-        }
-    </style>
-</head>
-<body>
-    <div class="content">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=dark"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true" class="card" />
-        </picture>
-    </div>
-</body>
-</html>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture style="display: block; width: card_width;">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true" style="display: block; width: card_width;" />
+  </picture>
+</div>
+
 
 ---
 ### Languajes and Frameworks
