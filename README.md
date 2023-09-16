@@ -28,11 +28,13 @@
 </div>
 
 ---
-### Languajes and Tools
+### Languajes
 
 ![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,spring,gradle,maven,mysql,postman,scala,react,js,html,css,materialui,nextjs)
 
-![My Tools](https://skillicons.dev/icons?i=ps,ae,idea,linkedin,vscode,,eclipse,git,github,gitlab,discord)
+## Tools
+
+![My Tools](https://skillicons.dev/icons?i=ps,ae,idea,linkedin,vscode,eclipse,git,github,gitlab,discord)
 
 ---
 
