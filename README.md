@@ -56,11 +56,12 @@
 ---
 ### Languajes and Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,spring,gradle,maven,mysql,postman,scala,react,js,html,css,materialui,nextjs)
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,nodejs,spring,gradle,maven,mysql,postman,scala,react,js,html,css,materialui,nextjs)
+](https://github.com/juanpabblo16)
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=ps,ae,idea,linkedin,vscode,eclipse,git,github,gitlab,discord)
+[![My Tools](https://skillicons.dev/icons?i=ps,ae,idea,linkedin,vscode,eclipse,git,github,gitlab,discord)
+](https://github.com/juanpabblo16)
 
 ---
 
