@@ -60,7 +60,7 @@
 
 <p align="center">
     
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/langs)](https://github.com/juanpabblo16)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
 
 </p>
 
