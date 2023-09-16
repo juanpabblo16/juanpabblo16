@@ -29,7 +29,7 @@
 
 <div id ="badges" align ="center">
 
-[](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=juanpabblo16&label=PROFILE+VIEWS)
     
 </div>
 
