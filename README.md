@@ -27,6 +27,8 @@
     </a>
 </div>
 
+---
+
 [![Juan´s GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpabblo16&show_icons=true&theme=transparent)](https://github.com/juanpabblo16?tab=repositories)
 
 ---
