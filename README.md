@@ -17,7 +17,7 @@
  - 📸 I regulary post some stuff on my insta [@jp.ac15](https://www.instagram.com/jp.ac15/)
  - 🌱 I’m currently learning Gradle, Apache, SQL and Spring
  - 📫 How to reach me: juanpabblo789@gmail.com
- - ☁ My Linkedin: [Juan Pablo Acevedo Mira](https://www.linkedin.com/in/juan-pablo-acevedo-mira-62b019190/)
+ - ☁ My Linkedin: [Juan Pablo Acevedo Mira](https://www.linkedin.com/in/juan-pablo-acevedo-62b019190/)
 
 ---
 
