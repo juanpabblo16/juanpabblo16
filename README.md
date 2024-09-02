@@ -70,7 +70,7 @@
 
 <div id ="badges" align ="center">
     
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://github.com/juanpabblo16)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juanpabblo16/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)](https://github.com/juanpabblo16)
 </div>
 
 
