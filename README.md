@@ -6,8 +6,7 @@
 ---
 
 <div id="Typer" align ="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Studying+systems+engineering..." alt="Typing SVG" /></a>
-    <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=at+ICESI+university;10th+semester" alt="Typing SVG" /></a></h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Software+engineer" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -15,7 +14,7 @@
 ### About me 
 
  - 📸 I regulary post some stuff on my insta [@jp.ac15](https://www.instagram.com/jp.ac15/)
- - 🌱 I’m currently learning more about Node JS, GraphQL, Nest, Docker and Microservices.
+ - 🌱 I’m currently learning more about GCP, Cloud Enviroments, Kubernetes and Microservices.
  - 📫 How to reach me: juanpabblo789@gmail.com
  - ☁ My Linkedin: [Juan Pablo Acevedo Mira](https://www.linkedin.com/in/juan-pablo-acevedo-62b019190/)
 
